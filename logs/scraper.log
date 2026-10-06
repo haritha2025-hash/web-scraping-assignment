@@ -1,0 +1,44 @@
+2026-10-06 18:58:39,395 - INFO - Scraping job started.
+2026-10-06 18:58:39,395 - INFO - Starting Books to Scrape.
+2026-10-06 18:59:34,651 - INFO - Books scraping completed: 1000 records.
+2026-10-06 18:59:34,659 - INFO - Starting Quotes to Scrape.
+2026-10-06 18:59:45,011 - INFO - Quotes scraping completed: 100 records.
+2026-10-06 18:59:45,011 - INFO - Total raw records collected: 1100
+2026-10-06 18:59:45,045 - INFO - Valid cleaned records: 1100
+2026-10-06 18:59:45,061 - INFO - Duplicates removed: 1
+2026-10-06 18:59:45,072 - INFO - Final dataset written to: D:\web_scraping_assignment\output\final_dataset.csv
+2026-10-06 18:59:45,072 - INFO - Summary report written to: D:\web_scraping_assignment\output\summary_report.json
+2026-10-06 18:59:45,072 - INFO - Scraping job completed successfully.
+2026-10-06 19:12:54,147 - INFO - Scraping job started.
+2026-10-06 19:12:54,147 - INFO - Starting Books to Scrape.
+2026-10-06 19:13:52,586 - INFO - Books scraping completed: 1000 records.
+2026-10-06 19:13:52,594 - INFO - Starting Quotes to Scrape.
+2026-10-06 19:14:09,482 - INFO - Quotes scraping completed: 100 records.
+2026-10-06 19:14:09,482 - INFO - Total raw records collected: 1100
+2026-10-06 19:14:09,520 - INFO - Valid cleaned records: 1100
+2026-10-06 19:14:09,520 - INFO - Duplicates removed: 1
+2026-10-06 19:14:09,539 - INFO - Final dataset written to: D:\web_scraping_assignment\output\final_dataset.csv
+2026-10-06 19:14:09,539 - INFO - Summary report written to: D:\web_scraping_assignment\output\summary_report.json
+2026-10-06 19:14:09,539 - INFO - Scraping job completed successfully.
+2026-10-06 19:24:52,738 - INFO - Scraping job started.
+2026-10-06 19:24:52,738 - INFO - Starting Books to Scrape.
+2026-10-06 19:26:02,835 - INFO - Books scraping completed: 1000 records.
+2026-10-06 19:26:02,836 - INFO - Starting Quotes to Scrape.
+2026-10-06 19:26:13,499 - INFO - Quotes scraping completed: 100 records.
+2026-10-06 19:26:13,499 - INFO - Total raw records collected: 1100
+2026-10-06 19:26:13,544 - INFO - Valid cleaned records: 1100
+2026-10-06 19:26:13,561 - INFO - Duplicates removed: 1
+2026-10-06 19:26:13,570 - INFO - Final dataset written to: D:\web_scraping_assignment\output\final_dataset.csv
+2026-10-06 19:26:13,571 - INFO - Summary report written to: D:\web_scraping_assignment\output\summary_report.json
+2026-10-06 19:26:13,572 - INFO - Scraping job completed successfully.
+2026-10-06 19:30:34,898 - INFO - Scraping job started.
+2026-10-06 19:30:34,899 - INFO - Starting Books to Scrape.
+2026-10-06 19:31:43,534 - INFO - Books scraping completed: 1000 records.
+2026-10-06 19:31:43,534 - INFO - Starting Quotes to Scrape.
+2026-10-06 19:31:55,624 - INFO - Quotes scraping completed: 100 records.
+2026-10-06 19:31:55,625 - INFO - Total raw records collected: 1100
+2026-10-06 19:31:55,700 - INFO - Valid cleaned records: 1100
+2026-10-06 19:31:55,735 - INFO - Duplicates removed: 1
+2026-10-06 19:31:55,748 - INFO - Final dataset written to: D:\web_scraping_assignment\output\final_dataset.csv
+2026-10-06 19:31:55,749 - INFO - Summary report written to: D:\web_scraping_assignment\output\summary_report.json
+2026-10-06 19:31:55,749 - INFO - Scraping job completed successfully.

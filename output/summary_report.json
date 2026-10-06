@@ -1,0 +1,34 @@
+{
+    "execution": {
+        "start_time": "2026-10-06T19:30:34",
+        "end_time": "2026-10-06T19:31:55",
+        "duration_seconds": 80.849364
+    },
+    "raw_records": {
+        "books": 1000,
+        "quotes": 100,
+        "total": 1100
+    },
+    "cleaned_records": {
+        "books": 1000,
+        "quotes": 100,
+        "total": 1100
+    },
+    "rejected_records": {
+        "total": 0,
+        "reasons": {}
+    },
+    "duplicates": {
+        "total": 1
+    },
+    "final_records": {
+        "books": 999,
+        "quotes": 100,
+        "total": 1099
+    },
+    "reconciliation": {
+        "raw_minus_rejected_minus_duplicates": 1099,
+        "final_count": 1099,
+        "counts_match": true
+    }
+}
